@@ -1,27 +1,53 @@
-# LojaGames
+# Documentação EGMAKEUP 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
 
-## Development server
+## Finalidade
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Venda de cosméticos, produtos de auto cuidado, skinkers e maquiagens.
 
-## Code scaffolding
+## Escopo
+- Área de clientes
+- Lista de produtos
+- Banner e anúncios
+- Área de contato e rede de sociais
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Visão geral do produto
 
-## Build
+EG é um sistema de vendas na área de beleza e cosméticos para todos os públicos e especialmente para aqueles que gostam de autocuidado. 
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Posicionamento no mercado
 
-## Running unit tests
+Homens e mulheres entre 20 e 45 anos, ativos, que buscam autocuidado e facilidade em suas compras online. São pessoas que valorizam o visual, a funcionalidade e o bom custo-benefício.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Descrição da equipe desenvolvedora e dos clientes
 
-## Running end-to-end tests
+Desenvolvedora encarregada do front-end: Ester Gomes, experiência com framework  Angular, HTML/CSS e JS.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Clientes jovens, com idade entre 20 há 40 anos
 
-## Further help
+## Alternativas e concorrências
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+Algumas das concorrências seriam: BOCCA ROSA, MARI MARIA, QUEM DISSE BERENICE.
+
+## Restrições
+
+O site tem termos e condições de uso e de armazenamentos de dados.
+
+## Requisitos do produto
+
+Produtos antialérgicos, e não testado em animais, além de ser aprovado pela ANVISA.
+
+## Definição, acrônimos e abreviações
+
+API Application Programming Interface: Conjunto de regras que permite que sistemas se comuniquem entre si.
+
+Frontend: Parte visual da aplicação com a qual o usuário interage (ex: site ou app)
+
+Backend: Parte "invisível" da aplicação que processa dados, lógicas e integrações com banco de dados
+
+## Referências
+
+https://www.makeareadme.com/#mind-reading
+https://getbootstrap.com/docs/5.3/getting-started/introduction/
+https://angular.dev/overview
