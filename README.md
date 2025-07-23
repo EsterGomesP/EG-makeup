@@ -38,6 +38,15 @@ O site tem termos e condições de uso e de armazenamentos de dados.
 
 Produtos antialérgicos, e não testado em animais, além de ser aprovado pela ANVISA.
 
+## Modelagem caso de uso
+Nome: Login 
+
+Descrição: O usuário informa seu login e senha para acessar o sistema. 
+
+Fluxo Principal: O usuário acessa a tela de login. O sistema solicita login e senha. O usuário insere os dados. O sistema valida as credenciais. O sistema permite o acesso se as credenciais forem válidas.
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/074571de-595f-4b78-90b2-e53fa5f502c8" />
+
 ## Definição, acrônimos e abreviações
 
 API Application Programming Interface: Conjunto de regras que permite que sistemas se comuniquem entre si.
@@ -45,6 +54,7 @@ API Application Programming Interface: Conjunto de regras que permite que sistem
 Frontend: Parte visual da aplicação com a qual o usuário interage (ex: site ou app)
 
 Backend: Parte "invisível" da aplicação que processa dados, lógicas e integrações com banco de dados
+
 
 ## Referências
 
